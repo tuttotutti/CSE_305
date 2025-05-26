@@ -1,0 +1,1 @@
+RentalContract [contractID=223223321, propertyID=39436, tenantID=385793, rentAmount=3500000.23, contractType=longterm]
